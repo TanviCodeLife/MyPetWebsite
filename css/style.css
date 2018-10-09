@@ -1,0 +1,21 @@
+body{
+  background: #c6d8b6;
+  font-style: italic;
+
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+}
+
+.resize{
+  width: 30%;
+  height: 800px;
+  border: solid 3px #a8a3e0;
+  margin: auto 30%;
+}
+
+#align{
+      margin: auto 37%;
+}
